@@ -11,9 +11,9 @@ O objetivo do projeto é criar um front-end totalmente componetizado com React e
 
 ## Imagens
 
-[pc](./screenshots/pesquisa_pc_app_.png)
+<img src="/screenshots/pesquisa_pc_app_.png" height="500" />
 
-[mobile](./screenshots/pesquisa_mobile_app_)
+<img src="./screenshots/pesquisa_mobile_app_.png" height="500" />
 
 ## Librares utilizadas
 
@@ -23,4 +23,4 @@ O objetivo do projeto é criar um front-end totalmente componetizado com React e
 
 
 ## Atribuições
-    + [flaticon Uicons](https://www.flaticon.com/uicons)
++ [Uicons (flaticon)](https://www.flaticon.com/uicons)
