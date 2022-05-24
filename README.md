@@ -11,8 +11,8 @@ O objetivo do projeto é criar um front-end totalmente componetizado com React e
 
 ## Imagens
 
-    ![pc](./screenshots/pesquisa_pc_app_.png)
-    ![mobile](./screenshots/pesquisa_mobile_app_)
+    [pc](./screenshots/pesquisa_pc_app_.png)
+    [mobile](./screenshots/pesquisa_mobile_app_)
 
 ## Librares utilizadas
 
